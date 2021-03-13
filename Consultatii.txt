@@ -1,0 +1,6 @@
+1,2020-12-05,georgescu,gheorghe,covid,paracetamol
+2,2020-11-27,popescu,alex,covid,paracetamol
+3,2020-11-06,georgescu,gheorghe,sinuzita,nurofen
+4,2020-07-23,monceanu,raducu,febra,forcapil
+5,2020-11-11,smeu,teodor,depresie,xanax
+6,2020-12-05,temelie,andrei,abazie,ketanol

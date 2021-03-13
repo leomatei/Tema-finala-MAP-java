@@ -1,0 +1,10 @@
+1,paracetamol,covid
+2,nurofen,sinuzita
+3,augmentin,bisinoza
+4,ketanol,abazie
+5,diclodenac,cancer
+6,xanax,depresie
+7,procor T,ebola
+8,seleniu,gastrita
+9,forcapil,febra
+10,detrical,hemofilie

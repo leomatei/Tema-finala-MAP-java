@@ -1,0 +1,10 @@
+1,sinuzita
+2,covid
+3,abazie
+4,bisinoza
+5,cancer
+6,depresie
+7,ebola
+8,febra
+9,gastrita
+10,hemofilie
